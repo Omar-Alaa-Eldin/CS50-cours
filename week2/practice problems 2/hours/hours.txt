@@ -1,0 +1,15 @@
+                            Hours
+
+Create a variable (int) weeks to take the input from the user (“Number of weeks taking CS50: “);
+Check the weeks to be positive integer from 1 to 12;
+Creat array (int) hours with (weeks) elemnts;
+For from I = 0 to I weeks
+	Take the input from the user (“Week i HW Hours: “), and assign it to the array at index i;
+Create a variables (int) total and call the fun. calc_hours(hours);
+Create a variables (float) average = (float) total / weeks;
+Create a variable (char) p to take the input from the user (“Enter T for total hours, A for average hours per week: “);
+loop p and check it until take a correct value {T,  A} only;
+if p = T
+	print the value of total;
+else
+	print the value of average;

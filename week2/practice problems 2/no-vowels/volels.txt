@@ -1,0 +1,7 @@
+                N0 V0w3ls
+
+Create list for the vowels;
+Check the argument should be only one;
+Take the argument and save it in string variable txt;
+Change the vowels by chang fun.
+Output the text;

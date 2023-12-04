@@ -1,0 +1,17 @@
+                                Prime number
+Create a variable (int) min to take the input from the user (“Minimum: “);
+Create a variable (int) max to take the input from the user (“Maximum: “);
+
+Loop from I = min to max
+	Create a variable (boolean) stat = is_prime(i);
+	If stat
+		Print x;
+
+
+
+Boolean is_prime(int x);
+	Loop from i = 2 to x-1
+		If x%i == 0
+			Return false;
+
+	Return true;

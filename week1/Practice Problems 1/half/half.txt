@@ -1,0 +1,7 @@
+Create a variable (float) bill to take the input from the user (“Bill before tax and tip: “);
+Create a variable (float) tax to take the input from the user (“Sale Tax Percent: “);
+Create a variable (int) tip to take the input from the user (“Tip percent: “);
+Add the tax to bill;
+Add the tip to bill;
+Create a variable (float) h_bill equal to half the bill and standard round it into two decimal numbers only;
+Print the h_bill;

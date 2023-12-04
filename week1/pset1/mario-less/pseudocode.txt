@@ -1,0 +1,6 @@
+Prompt user to take the height
+    If height is less than 1 or greater than 8 (or not an integer at all), go back one step:
+Iterate from i through height:
+    Iterate from i+1 throw height, print spaces:
+    Iterate from i+1 throw 0, print Hash:
+    print newline:
