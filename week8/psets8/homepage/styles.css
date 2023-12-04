@@ -1,0 +1,66 @@
+body {
+    display: block;
+    margin: 10px;
+    background-color: #E6E6FA;
+    color: black;
+
+}
+
+body:focus {
+    outline: none;
+}
+
+a:active {
+    color: #008000;
+}
+
+h3 {
+    color: navy;
+    background-color: DodgerBlue;
+    margin-right: 17em;
+}
+
+p {
+    color: navy;
+    text-indent: 30px;
+    text-transform: uppercase;
+}
+
+#fuclty {
+    color: black;
+    text-indent: 0;
+    text-transform: lowercase;
+}
+
+.add {
+    color: navy;
+    background-color: DodgerBlue;
+}
+
+tr.l {
+    border: 2px dashed;
+    border-color: blue;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+.act {
+    color: navy;
+    text-indent: 0;
+    text-transform: lowercase;
+}
+
+#per {
+    border: 2px dashed;
+    border-color: blue;
+
+}
+
+ul.b {
+    list-style-type: square;
+}
+
+dl.n {}
