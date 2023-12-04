@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: There is big deference between the time of the sorted case and the reversed case for the same n, so it’s times is O(n2) & Ω(n) according to Bubble sort.
+
+sort2 uses: Merge sort
+
+How do you know?: The time stay constant for stored, random and reversed cases but it increases slowly with n in all cases, so it’s times is O(n log n) = Ω(n log n) = Θ(n log n) according to Merge sort.
+
+sort3 uses: Selection sort
+
+How do you know?: The time stay constant for stored, random and reversed cases but it increases with n in all cases, so it’s times is O(n2) = Ω(n2) = Θ(n2) according to Selection sort.
